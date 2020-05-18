@@ -9,6 +9,8 @@ And then tell it stuff!
 
 Some examples:
 
+---
+
 Tell me about it (Q to stop): I am not happy at all.
 
 I sense you are feeling... Critical... Cold... Aggravated...
