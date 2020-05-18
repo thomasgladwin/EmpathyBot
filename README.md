@@ -7,4 +7,6 @@ Run via: python emodet
 
 And then tell it stuff!
 
+(Or, assuming it's running on a server somewhere, tweet at it via: @tegladwin EmpathyBot XXX, replacing XXX with some text you want analyzed.)
+
 [![DOI](https://zenodo.org/badge/264995353.svg)](https://zenodo.org/badge/latestdoi/264995353)
