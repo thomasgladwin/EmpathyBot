@@ -65,7 +65,7 @@ def emodet(text_all):
         nonnegation = 1 - 2 * np.mod(len(neg_v[neg_v > 1]), 2)
         # Get nouns and adjectives after preprocessing
         pt = pos_tag(tokens);
-        tokens2 = [x[0] for x in pt if x[1] in ['JJ', 'NN', 'RB']]
+        tokens2 = [x[0] for x in pt if x[1] in ['JJ', 'NN', 'RB', 'VB']]
         if len(tokens2) > 0:
             tokens = tokens2
         # Find strongest match to an emotion
