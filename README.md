@@ -11,7 +11,7 @@ Also allows API calls via, e.g.,
 
 thomasgladwin.pythonanywhere.com/api?text=I%20shot%20the%20attacker%20in%20self-defense.
 
-which returns: I shot the attacker in self-defense.: Self, Guilt, Suspicious
+which returns the string: "Self, Guilt, Suspicious"
 
 Some examples:
 
